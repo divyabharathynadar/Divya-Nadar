@@ -2,9 +2,8 @@ Hi there 👋,
 
 ### <div align="center">I’m Divyabharathy, a Data Science enthusiast and  M.Sc. student at University of Mumbai </div>  
 
-An aspiring data scientist who wishes to solve problems in the world by means of data. 
+An aspiring data science intern at The Sparks Foundation who wishes to solve problems in the world by means of data. 
 
-- Currently a Data science intern at The Sparks Foundation.
 - Also, a student pursuing Master of Science in Bioinformatics at the University of Mumbai.
 - A reliable person, passionate about developing new skills and knowledge in the field of Data Science.
 - Organized as well as a dedicated individual, who is keen to learn and adapt to different environments.
