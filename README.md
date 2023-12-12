@@ -1,6 +1,6 @@
 Hi there 👋,
 
-### <div align="center">I’m Divyabharathy, a Data Science enthusiast and  M.Sc. student at University of Mumbai </div>  
+### <div align="left">I’m Divyabharathy, </div>  
 
 An aspiring Data enthusiast who wishes to solve problems in the world by means of data. 
 
