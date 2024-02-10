@@ -8,8 +8,6 @@ An aspiring Data enthusiast who wishes to solve problems in the world by means o
 - Organized as well as a dedicated individual, who is keen to learn and adapt to different environments.
 - Interested in applying data science and relevant thinking skills to biological and health-related problems.
 - Proficient in programming skills, mathematics, statistics, and algorithms.
-- Eager to collaborate on all topics related to Data Science, Machine Learning, and Artificial Intelligence.
-- Also, a student pursuing Master of Science in Bioinformatics at the University of Mumbai.
 - 📫 Reach me at : divyabharathynadar@gmail.com or on LinkedIn : https://www.linkedin.com/in/divyabharathy-nadar-108546214/ 
   
 
