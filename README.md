@@ -7,7 +7,7 @@ An aspiring Data enthusiast who wishes to solve problems in the world by means o
 - A reliable person, passionate about developing new skills and knowledge in the field of Data Science.
 - Organized as well as a dedicated individual, who is keen to learn and adapt to different environments.
 - Interested in applying data science and relevant thinking skills to biological and health-related problems.
-- Proficient in programming skills, mathematics, statistics, and algorithms.
+- Proficient in Python, SQL, statistics, and algorithms.
 - 📫 Reach me at : divyabharathynadar@gmail.com or on LinkedIn : https://www.linkedin.com/in/divyabharathy-nadar-108546214/ 
   
 
